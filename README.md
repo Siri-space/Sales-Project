@@ -1,3 +1,6 @@
+![BikeStorestab](https://github.com/Siri-space/Sales-Project/assets/153458968/65111cd1-dff7-4668-92d7-b2ad1207fc4c)
+
+
 # Tableau-Projects
 BikeStore Sales Project Overview:
 

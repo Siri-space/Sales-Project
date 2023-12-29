@@ -41,5 +41,12 @@ Cross-Selling Opportunities:
 Analyzing patterns of products frequently purchased together to identify cross-selling opportunities and enhance product bundling strategies.
 By combining SQL queries to extract key metrics and Tableau visualizations for effective data representation, this sales project provides actionable insights for improving business strategies, optimizing operations, and driving growth in the bike product market.
 
+Summary of Findings
+
+- 2017 had the overall highest Revenue compared to other years.
+- NY had the most revenue compared to CA and TX
+- Baldwin Bikes Stores generated the highest total revenue compoared to the other stores.
+- Mountain bikes and Road bikes are the highest selling product categories.
+- 2 particular sales reps are making >50% of the overall sales.
 
 

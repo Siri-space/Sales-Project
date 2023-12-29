@@ -6,7 +6,7 @@ The objective of the project is to analyze sales data for bike products to ident
 
 Data Sources:
 
-Sales transactions database containing information about customers, products, orders, and sales amounts.
+Built a dummy database and populated it with data, containing information about customers, products, orders, and sales amounts.
 
 SQL Queries and Insights:
 Total Revenue by Product Category, product Brand, State, City, Customer, Sales Representative, Top 10 Customers, Monthly and yearly sales trend, top selling products

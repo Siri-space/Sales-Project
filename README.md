@@ -20,7 +20,7 @@ Insights: Identifying which bike product categories contribute the most to total
 Tableau Visualization:
 Category-wise Sales Distribution:
 
-A bar chart visualizing the total sales for each bike product category. This provides a quick overview of the contribution of each category to overall sales.
+A pie chart visualizing the total sales for each bike product category. This provides a quick overview of the contribution of each category to overall sales and a bar chart for sales representatives and customers.
 Monthly Sales Trendline:
 
 A line chart displaying the monthly sales trend with a trendline to visualize any patterns or seasonality over time.
